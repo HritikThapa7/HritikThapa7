@@ -1,16 +1,37 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+</div>
 
-<!--
-**HritikThapa7/HritikThapa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hritik-thapa-b729071a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://tryhackme.com/p/teezme">
+   <img src="https://img.shields.io/badge/TryHackMe-151e3d?logo=tryhackme&logoColor=white&style=for-the-badge" alt="TryHackMe Badge"/>
+  </a>
+</div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+---
 
-Here are some ideas to get you started:
+I am a Cybersecurity Enthusiast :man_technologist: from Nepal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :telescope: I’m currently pursuing my undergraduate studies at Kathmandu University.
+
+- :zap: In my free time, I sing songs :guitar: 
+
+- :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hritik-thapa-b729071a7)
+
+---
+
+### :writing_hand: Blog Posts :
+
+<a href="https://kucc.ku.edu.np/2020/12/time-to-fasten-our-seatbelts/">
+Article 1
+</a>
+
+<a href="https://medium.com/@hritkmjth/kanban-the-details-4be1fec2e98a">
+Article 2
+</a>
