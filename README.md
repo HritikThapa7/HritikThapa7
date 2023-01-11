@@ -23,7 +23,7 @@ I am a Cybersecurity Enthusiast :man_technologist: from Nepal.
 
 - :zap: In my free time, I sing songs :guitar: 
 
-- :mailbox:How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hritik-thapa-b729071a7)
+- :mailbox: How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hritik-thapa-b729071a7)
 
 ---
 
