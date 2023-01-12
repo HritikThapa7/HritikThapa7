@@ -3,6 +3,9 @@
 </div>
 
 <div id="badges">
+<a href="http://hritikthapa.com.np/">
+    <img src="https://img.shields.io/badge/Website-caeec2?logo=firefox&logoColor=black&style=for-the-badge" alt="Firefox Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/hritik-thapa-b729071a7/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
