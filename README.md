@@ -20,7 +20,7 @@
 
 ---
 
-I am a Cybersecurity Enthusiast :man_technologist: from Nepal.
+I am a Cybersecurity Enthusiast and Web Developer :man_technologist: from Nepal.
 
 - :telescope: I’m currently pursuing my undergraduate studies at Kathmandu University.
 
