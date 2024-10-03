@@ -22,7 +22,7 @@
 
 I am a Cybersecurity Enthusiast and Web Developer :man_technologist: from Nepal.
 
-- :telescope: I’m currently pursuing my undergraduate studies at Kathmandu University.
+- :telescope: I’m a Security Engineer.
 
 - :zap: In my free time, I sing songs :guitar: 
 
