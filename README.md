@@ -12,6 +12,9 @@
   <a href="https://tryhackme.com/p/teezme">
    <img src="https://img.shields.io/badge/TryHackMe-151e3d?logo=tryhackme&logoColor=white&style=for-the-badge" alt="TryHackMe Badge"/>
   </a>
+  <a href="[https://tryhackme.com/p/teezme](https://medium.com/@hritkmjth)">
+   <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" alt="Medium Badge"/>
+  </a>
 </div>
 <h1>
   hey there
